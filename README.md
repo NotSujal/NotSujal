@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @NotSujal
+- 👋 Hi, I’m Sujal jain
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning different frameworks to use for web development :)
